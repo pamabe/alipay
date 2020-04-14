@@ -1,0 +1,18 @@
+{
+    "name": "pamabe/alipay",
+    "description": "alipay vendor",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pamabe",
+            "email": "18455232857@163.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Alipay\\": "src/"
+        }
+    }
+}
